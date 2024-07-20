@@ -16,4 +16,6 @@ This is a tribute website dedicated to Dr. A.P.J. Abdul Kalam, the renowned Indi
 - **CSS Animations:** Used to create smooth transitions and enhance visual appeal.
 
 ## link Demo
-- **link:** 
+- **link:** https://vadepeer.github.io/Tripute-website/
+
+# Thank you
